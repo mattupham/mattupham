@@ -8,7 +8,7 @@ A software engineer who inspires people to explore technology and programming, a
 
 I create content based around coding, tech and productivity.
 
-The majority of my following is on [TikTok](https://link.mattupham.com/tiktok) and [Instagram](https://link.mattupham.com/instagram), which have a combined following of over 700,000 people.
+The majority of my following is on [TikTok](https://link.mattupham.com/tiktok) and [Instagram](https://link.mattupham.com/instagram), which have a combined following of over 600,000 people.
 
 Connect with me on social media [here](https://links.mattupham.com)!
 
