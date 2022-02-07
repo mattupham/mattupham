@@ -6,7 +6,7 @@
 
 Tech / programming / crypto / web3
 
-[TikTok](https://link.mattupham.com/tiktok) / [Instagram](https://link.mattupham.com/instagram) [YouTube](https://link.mattupham.com/youtube)
+[TikTok](https://link.mattupham.com/tiktok) / [Instagram](https://link.mattupham.com/instagram) / [YouTube](https://link.mattupham.com/youtube)
 
 Connect with me on social media [here](https://links.mattupham.com)!
 
