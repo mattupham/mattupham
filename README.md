@@ -4,11 +4,9 @@
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCARXVHuf1Ca_PfPPpX1SjSw?label=People%20subscribed%20to%20my%20channel&style=social)](https://www.youtube.com/channel/UCARXVHuf1Ca_PfPPpX1SjSw?sub_confirmation=1) [![Twitter Follow](https://img.shields.io/twitter/follow/mattupham_?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=mattupham_) [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCARXVHuf1Ca_PfPPpX1SjSw?label=Total%20views%20on%20my%20channel&style=social)](https://www.youtube.com/channel/UCARXVHuf1Ca_PfPPpX1SjSw?sub_confirmation=1)
 
-A software engineer who inspires people to explore technology and programming, and build careers they love.
+Tech / programming / crypto / web3
 
-I create content based around coding, tech and productivity.
-
-The majority of my following is on [TikTok](https://link.mattupham.com/tiktok) and [Instagram](https://link.mattupham.com/instagram), which have a combined following of over 600,000 people.
+[TikTok](https://link.mattupham.com/tiktok) / [Instagram](https://link.mattupham.com/instagram) [YouTube](https://link.mattupham.com/youtube)
 
 Connect with me on social media [here](https://links.mattupham.com)!
 
