@@ -9,8 +9,6 @@ Software Dev by Day / Social Media
 
 Tech / Programming / Crypto / Web3
 
-mattupham.eth / upham.eth
-
 [TikTok](https://link.mattupham.com/tiktok) / [Instagram](https://link.mattupham.com/instagram) / [YouTube](https://link.mattupham.com/youtube)
 
 Connect with me on social media [here](https://links.mattupham.com)!
