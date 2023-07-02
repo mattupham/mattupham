@@ -43,8 +43,8 @@ Connect with me on social media [here](https://links.mattupham.com)!
 
 ---
 
-## &#x1f4c8; My GitHub Stats
+# ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattupham&hide=shell&theme=radical)](https://github.com/mattupham)
+# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattupham&hide=shell&theme=radical)](https://github.com/mattupham)
 
-[![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattupham&theme=radical)](https://github.com/mattupham)
+# [![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattupham&theme=radical)](https://github.com/mattupham)
