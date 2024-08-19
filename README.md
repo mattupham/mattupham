@@ -2,18 +2,7 @@
 
 ---
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCARXVHuf1Ca_PfPPpX1SjSw?label=People%20subscribed%20to%20my%20channel&style=social)](https://www.youtube.com/channel/UCARXVHuf1Ca_PfPPpX1SjSw?sub_confirmation=1) [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCARXVHuf1Ca_PfPPpX1SjSw?label=Total%20views%20on%20my%20channel&style=social)](https://www.youtube.com/channel/UCARXVHuf1Ca_PfPPpX1SjSw?sub_confirmation=1)
-
-
-Software Dev by Day / Social Media
-
-Tech / Programming / Crypto / Web3
-
-[TikTok](https://link.mattupham.com/tiktok) / [Instagram](https://link.mattupham.com/instagram) / [YouTube](https://link.mattupham.com/youtube)
-
-Connect with me on social media [here](https://links.mattupham.com)!
-
----
+Software Dev
 
 🧰 Toolbox
 
@@ -28,15 +17,3 @@ Connect with me on social media [here](https://links.mattupham.com)!
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="50" height="50"/>
 
 ---
-
-📺 Popular YouTube Videos
-
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-
-- [Finding IP Addresses / Locations on Omegle with JavaScript](https://www.youtube.com/watch?v=fN9cWpY5zUc&t=1s)
-- [React Custom Hooks Tutorial | Form Validation](https://www.youtube.com/watch?v=SXIfnNvYrZE&t=19s)
-- [I wish I knew THIS before becoming a software engineer](https://www.youtube.com/watch?v=LySe0vC99hM&t=20s)
-- [Viral TikTok iMessage script (Python)](https://www.youtube.com/watch?v=wEkkZBY2Ja4)
-<!-- YOUTUBE-VIDEOS-LIST:END -->
-
-▶ [...more YouTube videos](https://www.youtube.com/channel/UCARXVHuf1Ca_PfPPpX1SjSw?sub_confirmation=1)
